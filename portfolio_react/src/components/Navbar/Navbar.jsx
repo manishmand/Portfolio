@@ -1,7 +1,7 @@
 import React from "react";
 
 const Navbar = () => {
-  const navItems = ["Home", "Journey", "Portfolio", "Skills", "Achievements", "Contact"];
+  const navItems = ["Home", "Journey", "Projects", "Skills", "Achievements", "Contact"];
 
   return (
     <header className="flex justify-between items-center px-6 py-4 border-b border-gray-800 bg-black text-white">
