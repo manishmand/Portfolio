@@ -9,6 +9,7 @@ import Projects from "./components/Project/Project";
 import Skills from "./components/Skil/Skil";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import { Routes ,Route } from "react-router";
 
 
 
@@ -26,6 +27,7 @@ useEffect(() => {
      <Skills/>
      <Contact/>
      <Footer/>
+
      
     </div>
   )

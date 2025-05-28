@@ -24,7 +24,7 @@ const Skills = () => {
     backend: [
       { name: 'Node.js', percent: 80 },
       { name: 'Express.js', percent: 80 },
-      { name: 'Django', percent: 80 },
+     
       { name: 'Python', percent: 90 },
       { name: 'MongoDB', percent: 80 },
     ],

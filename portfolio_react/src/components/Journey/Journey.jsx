@@ -12,14 +12,14 @@ const journeyData = [
   {
     icon: <FaGraduationCap className="text-xl text-white" />,
     title: "High School (12th)",
-    subtitle: "XYZ School",
+    subtitle: "N.K.P School Khopa Madhubani",
     description: "Completed senior secondary education with Science stream.",
     date: "2017 - 2019",
   },
   {
     icon: <FaGraduationCap className="text-xl text-white" />,
     title: "High School (10th)",
-    subtitle: "XYZ School",
+    subtitle: "U.M.S Madanpatti Andhrathadhi",
     description: "Completed Secondary Education with distinction ",
     date: "2016 - 2017",
   },
